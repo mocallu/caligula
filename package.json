@@ -4,6 +4,10 @@
   "description": "Frontend kickstart",
   "author": "https://github.com/mocallu",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mocallu/caligula.git"
+  },
   "devDependencies": {
     "connect-modrewrite": "^0.10.1",
     "grunt": "^1.0.1",
