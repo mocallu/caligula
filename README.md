@@ -1,2 +1,2 @@
 # Calígula
-Um kickstart para desenvolvimento de projetos frontend
+Um kickstart para desenvolvimento de projetos frontend.
