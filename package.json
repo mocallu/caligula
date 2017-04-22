@@ -2,7 +2,7 @@
   "name": "Caligula",
   "version": "0.0.1",
   "description": "Frontend kickstart",
-  "author": "@mocallu",
+  "author": "https://github.com/mocallu",
   "license": "MIT",
   "devDependencies": {
     "connect-modrewrite": "^0.10.1",
