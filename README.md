@@ -1,2 +1,2 @@
-# caligula
+# Caligula
 Frontend kickstart
