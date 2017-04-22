@@ -1,2 +1,3 @@
 # Calígula
-Um kickstart para desenvolvimento de projetos frontend com Grunt.
+Um kickstart para desenvolvimento de projetos Frontend com Grunt.
+
