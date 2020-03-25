@@ -1,0 +1,13 @@
+extends ../layouts/main.pug
+
+block vars
+  - var head = {title: 'Second Page'}
+block content
+  .row
+    .col-12
+      h1.page__title Yes, you are in the second page.
+      .content
+        p I will generate just <span class="badge badge-primary">html</span>, <span class="badge badge-success">css</span> and <span class="badge badge-info">javacript</span> files.
+        p So you can add some logic after.
+        p
+          a(href='/') Go back to the home page
